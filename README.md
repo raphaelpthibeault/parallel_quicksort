@@ -1,0 +1,1 @@
+Two variants of parallel quicksort: hyperquicksort and PSRS.
